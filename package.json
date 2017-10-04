@@ -1,0 +1,27 @@
+{
+  "name": "fs-scanner",
+  "version": "1.0.0",
+  "description": "Scans a given directory and get back a tree with the results of the path and its sub-paths.",
+  "main": "index.js",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/normancarcamo/fs-scanner.git"
+  },
+  "author": {
+    "name": "Norman Carcamo",
+    "email": "normancarcamo@gmail.com",
+    "url": "normancarcamo.com"
+  },
+  "maintainers": [
+    "Norman Carcamo <normancarcamo@gmail.com> (normancarcamo.com)"
+  ],
+  "contributors": [],
+  "keywords": [
+    "fs-scanner"
+  ],
+  "bugs": {
+    "url": "https://github.com/normancarcamo/fs-scanner/issues"
+  },
+  "homepage": "ttps://github.com/normancarcamo/fs-scanner"
+}
