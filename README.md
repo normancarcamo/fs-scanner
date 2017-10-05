@@ -8,12 +8,7 @@ This module aims to give you an object with a tree to get any directory found us
 - It can be used only with node because it uses the "fs" modules of node.js
 
 #### Where it can not be used?
-- It cannot be used as a browser module because it uses the "fs" module of node.js, although in this repository I'm going to give you some examples which how can you make use of it as a simple workaround.
-
-#### Pre-requisites
-  1. A html file to use as template.
-  2. The html file must include a div or any element with an id attribute to mount the component.
-  3. The components path or a file with all the routes. (see react-router v4 docs)
+- It cannot be used as a browser module because it uses the "fs" module of node.js
 
 #### Installation
 
