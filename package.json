@@ -1,6 +1,6 @@
 {
   "name": "fs-scanner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scans a given directory and get back a tree with the results of the path and its sub-paths.",
   "main": "index.js",
   "license": "ISC",
